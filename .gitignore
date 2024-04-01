@@ -1,6 +1,0 @@
-linux-arm/
-linux-arm64/
-linux-x64/
-win-x64/
-win-x86/
-*.bat
