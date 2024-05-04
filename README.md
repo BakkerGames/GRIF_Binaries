@@ -2,7 +2,7 @@
 
 GRIF, or Game Runner for Interactive Fiction, is an application for playing Interactive Fiction games from the console. It is designed so that the game data and logic are stored in external `*.grif` data files, which GRIF loads and executes.
 
-This GitHub site contains executable binaries for various systems.
+This GitHub site contains executable binaries for various systems and the current source code.
 
 Each includes LICENSE.md, README.md, DETAILS.md, SYNTAX.md, a demo "Cloak Of Darkness" game, and a demo "Tic Tac Toe" game.
 
